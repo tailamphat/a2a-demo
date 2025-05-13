@@ -1,0 +1,5 @@
+gooogle-adk==<latest>
+litellm==<latest>
+python-dotenv
+rich
+prompt_toolkit
